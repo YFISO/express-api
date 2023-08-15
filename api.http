@@ -1,0 +1,18 @@
+POST https://greetings-api-qf2m.onrender.com/api/greet
+content-type: application/json
+
+{
+	"language" : "zulu",
+	"greeting" : "Sawubona"
+}
+
+###
+
+POST https://greetings-api-qf2m.onrender.com/api/greet
+content-type: application/json
+
+{
+	"language" : "Xistonga",
+	"greeting" : "Avuxeni"
+}
+
